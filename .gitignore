@@ -10,15 +10,10 @@ dist/
 pictures/
 *.log
 *.xlsx
-zensmoothscoring/process/queue.csv
-zensmoothscoring/cfg/boto.csv
-zensmoothscoring/cfg/botocache.csv
 data/results/*
 data/errors/*
 data/server/*
-zensmoothscoring/queues/*.csv
 *.txt
 *.json
-*IMUdata.csv
-*GPSdata.csv
+
 C:*
