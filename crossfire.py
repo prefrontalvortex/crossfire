@@ -5,7 +5,7 @@ from keras.models import Model
 from keras import backend as K_backend
 from keras import objectives
 from keras.utils import np_utils
-
+import dicom
 
 class Autoencoder2D(object):
     def __init__(self,
